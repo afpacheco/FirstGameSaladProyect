@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor id="id930615" PGFVersion="0.19" GSCVersion="0.10.5">
+<actor id="id643794" PGFVersion="0.19" GSCVersion="0.10.5">
   <attributes>
-    <text id="name">sunset</text>
+    <text id="name">Actor 1</text>
     <real id="time">0</real>
     <point id="position">
       <real id="x">0</real>
@@ -34,8 +34,8 @@
         <enumeration id="verticalAnchor">0</enumeration>
         <boolean id="flipHorizontally">false</boolean>
         <boolean id="flipVertically">false</boolean>
-        <integer id="tileWidth" name="tileWidth">0</integer>
-        <integer id="tileHeight" name="tileHeight">0</integer>
+        <integer id="tileWidth">480</integer>
+        <integer id="tileHeight">320</integer>
       </attributes>
     </graphics>
     <motion>
